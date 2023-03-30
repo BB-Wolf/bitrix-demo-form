@@ -19,13 +19,13 @@ if (!Loader::IncludeModule('highloadblock')) {
         </div>
         <div class="form__body">
             <div class="form__group">
-                <label for="fio">ФИО</label><input type="text" placeholder="Введите ваше ФИО">
-                <label for="email">E-mail</label><input type="text" placeholder="Введите ваш e-mail">
+                <label for="fio">ФИО*</label><input class="required" type="text" placeholder="Введите ваше ФИО">
+                <label for="email">E-mail*</label><input class="required" type="text" placeholder="Введите ваш e-mail">
             </div>
             <div class="form__group">
                 <label for="phone">Телефон</label><input type="text" placeholder="Введите Ваш телефон">
             </div>
-            <div class="form__group"><textarea name="" id="" cols="30" rows="10" placeholder="Ваше сообщение"></textarea></div>
+            <div class="form__group"><label>Сообщение*</label><textarea class="required" name="" id="" cols="30" rows="10" placeholder="Ваше сообщение"></textarea></div>
             <div class="form__group"><button class="submit">Отправить</button></div>
         </div>
         <div class="form__footer"></div>
