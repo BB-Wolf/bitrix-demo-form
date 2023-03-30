@@ -24,11 +24,13 @@ BX.ready(function () {
           })
           .then(
             function (response) {
-              console.log(response);
               document.querySelector(".form__body").innerHTML =
                 "<div class='form__handler'>" + response.data.result + "</div>";
             },
-            function (response) {}
+            function (response) {
+              document.querySelector(".form__body").innerHTML =
+                "<div class='form__handler'>" + response.data.result + "</div>";
+            }
           );
       }
     }
