@@ -33,9 +33,22 @@ $entityDataClass = $hlBlockEntity->getDataClass();
     .feedback__list ul li,#workarea li {
         text-indent: unset !important;
     }
+
+    .feedback__sort{
+        display: flex;
+        flex-direction: row;
+        gap:20px;
+    }
 </style>
 
+<?
+$templateFilter = \Demo\DemoList::templateFilter();
+?>
 <section class="feedback">
+    <div class="feedback__sort">
+        <div class="sort__order">Сортировать по: <a href="?sort=<?=$_GET['sort']=='ASC'?'DESC':'ASC'?>&type=<?=$_GET['type']?>"><?=$templateFilter[0];?></a></div>
+        <div class="sort__type">Сортировать по: <a href="?type=<?=$_GET['type']=='ID' ?'UF_FIO':'ID'?>&sort=<?=$_GET['sort']?>"><?=$templateFilter[1];?></a></div>
+    </div>
     <div class="feedback__list">
         <?
         if ($arResult['ITEMS']) :

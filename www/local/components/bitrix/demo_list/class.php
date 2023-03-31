@@ -10,9 +10,62 @@ class DemoList extends \CBitrixComponent
 
     // Для сортировки можно задать отдельные сеттер\гететр которые будут задаваться через ajax-controller, но мы пойдем простым путем и будем брать из GET, конечно лучше использовать
     // методы встроенные и не доверять пользовательскому вводу.
+    // Ну и опять же в компоненте не должно быть кирллицы. А языковые переменные
 
     private $nav;
 
+    public function setFilter(){
+        
+        $filter =[];
+
+        if(!empty($_REQUEST['sort'])){
+            $order = trim(strip_tags($_REQUEST['sort']));
+        }else{
+            $order = 'ASC';
+        }
+
+        if(!empty($_REQUEST['type'])){
+            $type = trim(strip_tags($_REQUEST['type']));
+        }else{
+            $type ='ID';
+        }
+
+        $filter = [$type=>$order];
+        
+        return $filter;
+    }
+
+
+    public static function templateFilter(){
+        if (!empty($_REQUEST['sort'])) {
+            $order = trim(strip_tags($_REQUEST['sort']));
+            if($order == 'DESC'){
+                $orderText = 'убыванию';
+            }else{
+                $orderText = 'возрастанию';
+            }
+        } else {
+            $order = 'ASC';
+            $orderText = 'возрастанию';
+
+        }
+
+        if (!empty($_REQUEST['type'])) {
+            $type = trim(strip_tags($_REQUEST['type']));
+            if($type=='ID'){
+                $typeText = 'ID';
+            }else{
+                $typeText='ФИО';
+            }
+            
+        } else {
+            $typeText = 'ID';
+        }
+
+
+        return [$orderText,$typeText];
+
+    }
     
    
     public function getData(): Array    {
@@ -35,7 +88,7 @@ class DemoList extends \CBitrixComponent
             "count_total" => true,
             "offset" => $nav->getOffset(), 
             "limit" => $nav->getLimit(),
-            'order'=>['ID'=>strip_tags(trim($_GET['sort']))?:'ASC'],
+            'order'=>$this->setFilter(), // если вдруг будет post запрос по ajax
         ));
 
         $nav->setRecordCount($resultData->getCount());
