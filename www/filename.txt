@@ -256,3 +256,864 @@ array(1) {
 }
 
 
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(3) "234"
+    ["email"]=>
+    string(3) "432"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "432"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(7) "3543543"
+    ["email"]=>
+    string(8) "54354354"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(7) "3543543"
+    ["email"]=>
+    string(8) "54354354"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(7) "3543543"
+    ["email"]=>
+    string(8) "54354354"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(7) "3543543"
+    ["email"]=>
+    string(8) "54354354"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(3) "432"
+    ["email"]=>
+    string(4) "2342"
+    ["phone"]=>
+    string(3) "432"
+    ["usmsg"]=>
+    string(2) "34"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(2) "23"
+    ["email"]=>
+    string(3) "342"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(3) "342"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(9) "543543543"
+    ["email"]=>
+    string(6) "543543"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(6) "543543"
+  }
+}
+
+
+array(1) {
+  ["$varname"]=>
+  array(7) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["fio"]=>
+    string(4) "2342"
+    ["email"]=>
+    string(13) "test@test.com"
+    ["phone"]=>
+    string(0) ""
+    ["usmsg"]=>
+    string(5) "klklk"
+  }
+}
+
+
