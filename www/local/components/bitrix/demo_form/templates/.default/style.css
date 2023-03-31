@@ -31,9 +31,50 @@
 }
 
 .form__group textarea{
-    margin-top:20px;
+    margin-top:10px;
     border:unset;
     box-shadow: 0px 0px 3px 2px rgba(0,0,0,0.1);
     border-radius: 10px;
     padding:10px;
 }   
+
+.submit{
+    margin-top:10px;
+    padding:20px;
+    text-align: center;
+    background-color: #ececec;
+    outline: none;
+    border:unset;
+    box-shadow: 0px 0px 2px 2px rgba(0,0,0,0.1);
+    cursor:pointer;
+}
+
+.error{
+    box-shadow:0px 0px 2px 2px rgba(255,0,0,0.9) !important;
+    color:red !important;
+    animation-name:horizontal-shaking;
+    animation-duration: 0.3s;
+    animation-iteration-count: 2;
+}
+
+@keyframes horizontal-shaking {
+  0% {
+    transform: translateX(0)
+  }
+
+  25% {
+    transform: translateX(5px)
+  }
+
+  50% {
+    transform: translateX(-5px)
+  }
+
+  75% {
+    transform: translateX(5px)
+  }
+
+  100% {
+    transform: translateX(0)
+  }
+}
