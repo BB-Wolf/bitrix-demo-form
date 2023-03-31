@@ -1,15 +1,11 @@
 <?php
 
+namespace DemoForm;
 
 
-class DemoForm extends CBitrixComponent
+class DemoForm extends \CBitrixComponent
 {
 
 
-    function registerUser(\Bitrix\Main\Entity\Event $event){
-        var_dump($event);die();
-            CUSer::Add([
-                'NAME'=>'',
-            ]);
-    }
+  
 }

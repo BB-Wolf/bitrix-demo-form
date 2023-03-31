@@ -37,7 +37,7 @@ class DemoFormAjaxController extends \Bitrix\Main\Engine\Controller
         $addResult = $entityDataClass::add($hlFields);
 
             if($addResult){
-                \Bitrix\Main\EventManager::getInstance()->addEventHandler('','FeedbackOnAfterAdd',['DemoForm','registerUser']); 
+               
 
 
             $jsonResult = ['result' => 'Успешно добавлено'];
