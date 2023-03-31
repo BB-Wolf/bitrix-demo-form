@@ -5,22 +5,25 @@ BX.ready(function () {
     { className: "submit" },
     function (e) {
       e.preventDefault();
-      var error = true;
+      let error = false;
       let required = document.querySelectorAll(".required");
+
       required.forEach((element) => {
         if (element.value == "") {
           element.classList.add("error");
+          error = true;
         }
       });
 
-      console.log(required);
       if (!error) {
         BX.ajax
           .runComponentAction("bitrix:demo_form", "sendMessage", {
             mode: "ajax",
-            data: {
-              msg: "Hero!",
-            },
+            method: "post",
+            data: BX.ajax.prepareData(
+                BX.ajax.prepareForm(document.querySelector(".feedback__form"))
+                  .data
+              ),
           })
           .then(
             function (response) {
@@ -33,6 +36,7 @@ BX.ready(function () {
             }
           );
       }
+      error = false;
     }
   );
 

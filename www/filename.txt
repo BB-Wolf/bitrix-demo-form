@@ -1,0 +1,15 @@
+array(1) {
+  ["$varname"]=>
+  array(4) {
+    ["mode"]=>
+    string(4) "ajax"
+    ["c"]=>
+    string(16) "bitrix:demo_form"
+    ["action"]=>
+    string(11) "sendMessage"
+    ["q"]=>
+    string(0) ""
+  }
+}
+
+
